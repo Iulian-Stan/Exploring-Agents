@@ -7,3 +7,7 @@ on the map. All the concepts are preserved, each agent is fully independent and 
 
 This is not the final version as there are glitches when multiple agents try to move the same artefact
 due to weak synchronization mechanism.
+
+## Interface 
+
+comming soon
