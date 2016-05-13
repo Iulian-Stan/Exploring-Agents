@@ -10,6 +10,6 @@ due to weak synchronization mechanism.
 
 ## Interface 
 
-![demo](https://raw.githubusercontent.com/Iulian-Stan/ExploringAgents/f97866d99d38f16b4a9b3c4ac09796ffefcd2400/demo.PNG)
+![demo](https://raw.githubusercontent.com/Iulian-Stan/ExploringAgents/b2c277aa3475f0c991f57b953fe02d40d52816d4/demo.PNG)
 
 The screen is split into the entire map (left), and the explored one (right).
